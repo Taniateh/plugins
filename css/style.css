@@ -1,0 +1,9 @@
+.container {
+  background-color: #c7d2d8; }
+
+.social {
+  margin: 0;
+  padding: 0; }
+  .social li {
+    display: inline-block;
+    margin-right: 32px; }
